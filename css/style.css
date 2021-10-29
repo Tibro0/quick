@@ -75,6 +75,7 @@ a, a:hover{
 .online-business p{
     font-weight: 400;
     color: #777;
+    margin-bottom: 10px;
 }
 .online-business .banner-img{
     width: 60%;
